@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+## -----------------------> Welcome to my profile <----------------------
 
 #### Im currently learning python because im a noob 
 <!--
