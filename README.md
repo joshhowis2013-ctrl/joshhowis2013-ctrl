@@ -6,7 +6,7 @@
 
 # -----------------------> Welcome to my profile <----------------------
 
-#### Im currently learning python because im a noob 
+
 
 <!--
 **joshhowis2013-ctrl/joshhowis2013-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
